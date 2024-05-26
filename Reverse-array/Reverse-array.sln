@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Reverse-array", "Reverse-array\Reverse-array.vcxproj", "{6346CC44-FBFF-4EF4-B75F-F38EF75C893F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6346CC44-FBFF-4EF4-B75F-F38EF75C893F}.Debug|x64.ActiveCfg = Debug|x64
+		{6346CC44-FBFF-4EF4-B75F-F38EF75C893F}.Debug|x64.Build.0 = Debug|x64
+		{6346CC44-FBFF-4EF4-B75F-F38EF75C893F}.Debug|x86.ActiveCfg = Debug|Win32
+		{6346CC44-FBFF-4EF4-B75F-F38EF75C893F}.Debug|x86.Build.0 = Debug|Win32
+		{6346CC44-FBFF-4EF4-B75F-F38EF75C893F}.Release|x64.ActiveCfg = Release|x64
+		{6346CC44-FBFF-4EF4-B75F-F38EF75C893F}.Release|x64.Build.0 = Release|x64
+		{6346CC44-FBFF-4EF4-B75F-F38EF75C893F}.Release|x86.ActiveCfg = Release|Win32
+		{6346CC44-FBFF-4EF4-B75F-F38EF75C893F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA80206D-1BF3-4252-B5D8-FC7575E83432}
+	EndGlobalSection
+EndGlobal
